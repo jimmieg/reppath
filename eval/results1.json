@@ -1,0 +1,117 @@
+[
+  {
+    "id": "tc_01",
+    "description": "Strength plan \u2014 beginner, 3 days, 8 weeks",
+    "structure": 1.0,
+    "goal_alignment": 1.0,
+    "hard_rules": 1.0,
+    "composite": 1.0,
+    "issues": []
+  },
+  {
+    "id": "tc_02",
+    "description": "Hypertrophy plan \u2014 intermediate, 4 days, 12 weeks",
+    "structure": 1.0,
+    "goal_alignment": 0.94,
+    "hard_rules": 1.0,
+    "composite": 0.98,
+    "issues": [
+      "Plank: 30 seconds reps exceeds max 20 for hypertrophy"
+    ]
+  },
+  {
+    "id": "tc_03",
+    "description": "Fat loss plan \u2014 beginner, 4 days, 8 weeks",
+    "structure": 1.0,
+    "goal_alignment": 1.0,
+    "hard_rules": 1.0,
+    "composite": 1.0,
+    "issues": []
+  },
+  {
+    "id": "tc_04",
+    "description": "Endurance plan \u2014 beginner, 3 days, 8 weeks",
+    "structure": 1.0,
+    "goal_alignment": 0.89,
+    "hard_rules": 1.0,
+    "composite": 0.96,
+    "issues": [
+      "4x4 Minute Intervals: 4 minutes hard effort reps below min 10 for endurance"
+    ]
+  },
+  {
+    "id": "tc_05",
+    "description": "Strength plan \u2014 intermediate, 5 days, 12 weeks",
+    "structure": 0.75,
+    "goal_alignment": 0.53,
+    "hard_rules": 1.0,
+    "composite": 0.76,
+    "issues": [
+      "Day count: expected 5, got 6",
+      "Leg Press: 8-10 reps exceeds max 6 for strength",
+      "Dumbbell Lateral Raise: 10-12 reps exceeds max 6 for strength",
+      "Leg Curl: 8-10 reps exceeds max 6 for strength",
+      "Calf Raise: 10-12 reps exceeds max 6 for strength",
+      "Face Pull: 10-12 reps exceeds max 6 for strength",
+      "Dumbbell Bench Press: 8-10 reps exceeds max 6 for strength",
+      "Plank: 30-60 seconds reps exceeds max 6 for strength"
+    ]
+  },
+  {
+    "id": "tc_06",
+    "description": "Hypertrophy plan \u2014 beginner, 3 days, 4 weeks",
+    "structure": 1.0,
+    "goal_alignment": 1.0,
+    "hard_rules": 1.0,
+    "composite": 1.0,
+    "issues": []
+  },
+  {
+    "id": "tc_07",
+    "description": "Strength plan \u2014 injury present (lower back)",
+    "structure": 1.0,
+    "goal_alignment": 0.58,
+    "hard_rules": 1.0,
+    "composite": 0.86,
+    "issues": [
+      "Dumbbell Fly: 8-10 reps exceeds max 6 for strength",
+      "Leg Press: 8-10 reps exceeds max 6 for strength",
+      "Calf Raise: 10-12 reps exceeds max 6 for strength",
+      "Push-Up: 8-12 reps exceeds max 6 for strength",
+      "Plank: 30-60 seconds reps exceeds max 6 for strength"
+    ]
+  },
+  {
+    "id": "tc_08",
+    "description": "Fat loss \u2014 intermediate, 5 days, 12 weeks",
+    "structure": 1.0,
+    "goal_alignment": 1.0,
+    "hard_rules": 0.0,
+    "composite": 0.67,
+    "issues": [
+      "Back-to-back pattern violation: {'pull'} on Wednesday and Thursday"
+    ]
+  },
+  {
+    "id": "tc_09",
+    "description": "Hypertrophy \u2014 advanced, 6 days, 12 weeks",
+    "structure": 1.0,
+    "goal_alignment": 1.0,
+    "hard_rules": 1.0,
+    "composite": 1.0,
+    "issues": []
+  },
+  {
+    "id": "tc_10",
+    "description": "Endurance \u2014 intermediate, 4 days, 12 weeks",
+    "structure": 1.0,
+    "goal_alignment": 0.67,
+    "hard_rules": 1.0,
+    "composite": 0.89,
+    "issues": [
+      "4x8 min Zone 3-4 Intervals: 8 minutes reps below min 10 for endurance",
+      "Barbell Squat: 8-12 reps below min 10 for endurance",
+      "Deadlift: 8-12 reps below min 10 for endurance"
+    ]
+  }
+]

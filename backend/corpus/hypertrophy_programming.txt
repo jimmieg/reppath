@@ -1,0 +1,124 @@
+SOURCE: Schoenfeld et al. (2021). "Loading Recommendations for Muscle Strength,
+Hypertrophy, and Local Endurance." Sports (Basel), 9(2):32. PMC7927075. CC BY 4.0.
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC7927075/
+CURATED FOR: RepPath — goal: hypertrophy
+---
+
+DEFINITION
+Hypertrophy training aims to increase muscle cross-sectional area. Volume — total
+sets x reps x load — is the primary driver of hypertrophic adaptation, not load
+alone.
+
+KEY FINDING: THE CONTINUUM IS NOT RIGID
+Research shows hypertrophy can occur across a broad rep range (5–30 reps) when sets
+are taken to or near muscular failure. Lighter loads taken to failure produce similar
+hypertrophy to heavier loads. Proximity to failure matters more than absolute load.
+
+LOADING PARAMETERS
+Moderate load training (60–80% of 1RM, 6–12 reps per set) has traditionally been
+optimal for hypertrophy and remains a reliable starting point.
+
+Recommended parameters:
+- Load: 60–80% 1RM (or load allowing 6–20 reps to near failure)
+- Reps per set: 6–20
+- Sets per muscle group per week: 10–20 (minimum effective: 10)
+- Rest between sets: 60–120 seconds
+- Frequency: minimum 2x per week per muscle group
+
+VOLUME LANDMARKS
+- Minimum effective volume: ~10 sets per muscle group per week
+- Maximum adaptive volume: ~20 sets per muscle group per week
+- Beginners respond to lower volumes; advanced trainees need more to progress
+
+EXERCISE SELECTION
+Compound movements provide the foundation. Isolation exercises add volume to
+specific muscles:
+- Chest: Bench Press, Dumbbell Fly, Cable Crossover
+- Back: Pull-Up, Lat Pulldown, Cable Row, Dumbbell Row
+- Shoulders: Overhead Press, Lateral Raise, Face Pull
+- Legs: Squat, Leg Press, Romanian Deadlift, Leg Curl, Leg Extension
+- Arms: Curl variations, Tricep Pushdown, Skull Crusher
+
+PROGRESSION
+For hypertrophy, progress by increasing volume over time:
+- Add reps within a rep range before adding weight
+- When top of rep range is reached with good form, increase load by 2.5–5%
+- Double progression: e.g., aim for 3x8-12; when 3x12 is achieved, add weight
+
+SPLIT OPTIONS
+- 3 days: Full body (each session hits all muscle groups)
+- 4 days: Upper/Lower split
+- 5–6 days: Push/Pull/Legs or body part split
+
+DELOAD
+Every 4–8 weeks, reduce volume by 40–50% while maintaining load. Deloads allow
+recovery from accumulated fatigue and often result in strength gains afterward.
+
+VOLUME LANDMARKS FOR HYPERTROPHY
+Research by Dr. Mike Israetel (Renaissance Periodization) defines volume landmarks:
+- Minimum Effective Volume (MEV): minimum sets to make progress (~10 sets/week/muscle)
+- Maximum Adaptive Volume (MAV): optimal volume range (~15-20 sets/week/muscle)
+- Maximum Recoverable Volume (MRV): beyond this, recovery is impaired (20+ sets)
+
+Start at MEV and add 1-2 sets per muscle per week until MRV is approached, then
+deload and restart at MEV with slightly higher loads.
+
+MUSCLE GROUP FREQUENCY
+Each muscle group should be trained at least twice per week for optimal hypertrophy.
+Research shows 2x frequency produces significantly more growth than 1x frequency
+when volume is equated. 3x frequency can be beneficial for advanced trainees.
+
+Example weekly volume distribution (intermediate, 4 days):
+- Chest: 12 sets (6 per session, 2 sessions)
+- Back: 14 sets (7 per session, 2 sessions)
+- Shoulders: 10 sets (5 per session, 2 sessions)
+- Quads: 12 sets (6 per session, 2 sessions)
+- Hamstrings: 10 sets (5 per session, 2 sessions)
+- Biceps: 8 sets (4 per session, 2 sessions)
+- Triceps: 10 sets (5 per session, 2 sessions)
+
+EXERCISE SELECTION FOR HYPERTROPHY
+Prioritize exercises that:
+1. Load the muscle in a stretched position (e.g., Romanian Deadlift for hamstrings)
+2. Allow smooth, pain-free movement through full range of motion
+3. Provide consistent tension throughout the rep
+4. Can be progressively loaded over time
+
+Best exercises by muscle group:
+- Chest: Incline Dumbbell Press, Cable Fly, Dip
+- Back: Pulldown, Seated Cable Row, Chest-Supported Row
+- Shoulders: Lateral Raise, Cable Lateral Raise, Machine Shoulder Press
+- Quads: Leg Press, Hack Squat, Bulgarian Split Squat
+- Hamstrings: Romanian Deadlift, Leg Curl, Nordic Curl
+- Biceps: Incline Dumbbell Curl, Cable Curl, Preacher Curl
+- Triceps: Overhead Tricep Extension, Cable Pushdown, JM Press
+
+TRAINING SPLITS FOR HYPERTROPHY
+Push/Pull/Legs (PPL) — 6 days:
+- Push: Chest, Shoulders, Triceps
+- Pull: Back, Biceps, Rear Delts
+- Legs: Quads, Hamstrings, Glutes, Calves
+- Repeat twice per week
+
+Upper/Lower — 4 days:
+- Upper A: Chest focus, Back secondary
+- Lower A: Quad focus, Hamstring secondary
+- Upper B: Back focus, Chest secondary
+- Lower B: Hamstring focus, Quad secondary
+
+Full Body — 3 days:
+- Each session hits all major muscle groups
+- Best for beginners and those with limited training days
+
+MIND-MUSCLE CONNECTION
+Research supports that deliberately focusing on contracting the target muscle
+during an exercise increases muscle activation. For isolation exercises especially,
+slow the eccentric (lowering) phase to 2-3 seconds and squeeze the muscle at
+peak contraction. This is more important for accessories than compound lifts.
+
+NUTRITION FOR HYPERTROPHY
+Muscle growth requires a caloric surplus of 200-500 calories above maintenance.
+Protein intake of 1.6-2.2g per kg of bodyweight is the evidence-based range.
+Distribute protein across 3-5 meals for optimal muscle protein synthesis.
+Carbohydrates fuel training performance — do not restrict carbs when hypertrophy
+is the primary goal.

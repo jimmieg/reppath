@@ -1,0 +1,177 @@
+SOURCE: Carter, M. "The Science and Physiology of Endurance Training: Everything
+You Need to Know." Uphill Athlete, April 25, 2023.
+URL: https://uphillathlete.com/aerobic-training/science-and-physiology-of-endurance-training/
+CURATED FOR: RepPath — goal: endurance
+---
+
+DEFINITION
+Endurance training improves the body's ability to sustain prolonged aerobic effort.
+Adaptations occur primarily at the cellular level — increased mitochondrial density,
+improved lactate clearance, and cardiovascular efficiency. These adaptations are
+highly individualized and develop gradually over weeks and months.
+
+THE LACTATE SHUTTLE — WHY AEROBIC BASE MATTERS
+During exercise, lactate accumulates as intensity increases. The intracellular
+lactate shuttle moves lactate from fast-twitch muscle fibers (type IIA and IIX),
+which have few mitochondria, into slow-twitch fibers (type I), which are
+mitochondrially dense and can oxidize lactate back into usable energy.
+
+If lactate is not cleared, it continues to build up, changing blood pH and forcing
+a reduction in exercise intensity. Building a strong aerobic base expands this
+lactate-clearing capacity by increasing mitochondrial density in type I fibers.
+
+This is why most endurance training volume should be done at low-to-moderate
+intensity — it develops the mitochondrial infrastructure needed to sustain higher
+intensities later.
+
+ENERGY PATHWAYS
+The body relies on three main energy pathways:
+- Phosphocreatine (PCr): explosive, depleted in seconds
+- Anaerobic glycolysis: fast energy, depleted in minutes, produces lactate buildup
+- Aerobic glycolysis: the primary engine of endurance, slower but produces far
+  more ATP; relies on mitochondria to convert macronutrients to energy
+
+Endurance training targets aerobic glycolysis. As aerobic capacity improves,
+athletes can produce energy aerobically at higher intensities, delaying the point
+at which anaerobic glycolysis takes over and lactate accumulates uncontrollably.
+
+TYPES OF ENDURANCE TRAINING
+Three proven methods for building endurance:
+
+1. AEROBIC BASE BUILDING (Zone 1-2)
+Build mitochondrial density through consistent low-intensity volume. This is the
+foundation. 70-80% of weekly training volume should be easy, conversational pace.
+Heart rate should stay in Zone 1-2 — you can hold a full conversation comfortably.
+This is where mitochondrial biogenesis is most effectively stimulated.
+
+2. LACTATE THRESHOLD TRAINING (Zone 3-4)
+Training near or at the lactate threshold (maximum intensity at which lactate
+can still be cleared) improves the body's ability to shuttle and convert lactate.
+Threshold work sharpens intensity performance on top of an aerobic base.
+Example: 20-40 minute sustained efforts at "comfortably hard" pace.
+
+3. INTERVAL TRAINING (Zone 4-5)
+Fartlek and tempo intervals push intensity above the aerobic threshold, then
+allow recovery at easy pace to clear lactate. Intervals cause less accumulated
+blood lactate post-exercise than sustained hard efforts and build VO2max.
+Example: 4-6 x 4-8 minutes at hard effort with equal recovery.
+
+MUSCLE FIBER TYPES AND ENDURANCE
+- Type I (slow twitch): high mitochondrial density, fatigue resistant, the primary
+  target for endurance development. Found in postural muscles.
+- Type IIA and IIX (fast twitch): few or no mitochondria, generate high force
+  quickly but fatigue fast.
+
+Endurance training recruits Type I fibers repeatedly at low-to-moderate intensity.
+Over time this increases mitochondrial density in those fibers, expanding the
+lactate vacuum. Genetics determines fiber type distribution but mitochondrial
+density is highly trainable.
+
+STRENGTH TRAINING FOR ENDURANCE ATHLETES
+Strength training improves endurance performance by:
+- Increasing movement economy (less energy per stride or pedal stroke)
+- Strengthening connective tissue to reduce injury risk
+- Improving neuromuscular recruitment efficiency
+
+Important distinction: strength training will not develop aerobic glycolysis.
+It is a supplement to aerobic work, not a replacement.
+Recommended: 2 days per week of compound resistance work — single-leg movements
+(lunges, step-ups, split squats), hip hinges (deadlifts, Romanian deadlifts),
+and core stability. Moderate loads (8-15 reps) are sufficient for endurance
+athletes. Maximal strength work (1-5 reps) is not necessary.
+
+TRAINING PARAMETERS
+- Frequency: 3-5 days per week
+- Duration: 30-60 minutes per session at moderate intensity
+- Weekly target: 150 minutes minimum for health; 300+ for performance
+- Zone distribution: 70-80% Zone 1-2, 20-30% Zone 3-5
+- Progression: increase duration before increasing intensity
+
+THE 10% RULE
+Increase weekly training volume by no more than 10% per week to reduce injury
+risk. Every 3-4 weeks, take a recovery week at 60-70% of the previous week's
+volume before progressing again. Connective tissue adapts slower than
+cardiovascular fitness — ramping volume too fast causes overuse injuries.
+
+COMMON BEGINNER MISTAKES
+- Training too hard too often: most endurance gains come from easy, consistent
+  volume — not from pushing hard every session
+- Skipping strength work: leads to imbalances and overuse injuries
+- Progressing too fast: injury risk spikes when volume increases faster than
+  connective tissue can adapt
+
+PROGRAM STRUCTURE EXAMPLE (3 DAYS/WEEK)
+- Day 1: 30-40 min easy aerobic Zone 2 + core work
+- Day 2: Resistance training — lower body compound focus
+- Day 3: 20 min easy warm-up + 3x8 min Zone 3-4 intervals + cool down
+
+For 4-5 days, add Zone 2 sessions and one dedicated resistance day.
+
+HEART RATE ZONES FOR ENDURANCE TRAINING
+Heart rate zones are calculated from maximum heart rate (MHR).
+Estimate MHR: 220 minus age (approximate).
+
+Zone 1 (50-60% MHR): Very easy, recovery, fat burning dominant
+Zone 2 (60-70% MHR): Aerobic base, mitochondrial development, conversational pace
+Zone 3 (70-80% MHR): Tempo, aerobic/anaerobic threshold, slightly uncomfortable
+Zone 4 (80-90% MHR): Threshold, lactate accumulation begins, hard but sustainable
+Zone 5 (90-100% MHR): VO2max, maximum effort, only sustainable 1-8 minutes
+
+Most endurance training (70-80% of volume) should be Zone 1-2. This builds the
+aerobic base that allows higher intensity work to be sustained later.
+
+VO2MAX TRAINING
+VO2max is the maximum rate of oxygen consumption during intense exercise.
+It is one of the strongest predictors of endurance performance and longevity.
+
+VO2max intervals are short, very high intensity efforts at Zone 5:
+- Duration: 3-8 minutes per interval
+- Rest: equal to or slightly longer than work period
+- Volume: 4-6 intervals per session
+- Frequency: once per week maximum for most trainees
+
+Example: 5 x 4 minutes at maximum sustainable effort, 4 minutes easy recovery
+
+VO2max is highly trainable — consistent aerobic training can improve it by
+15-25% over 3-6 months in untrained individuals.
+
+RACE-SPECIFIC PREPARATION
+Endurance training should become increasingly specific to the target event as
+the race approaches:
+
+5K preparation (8-week plan structure):
+- Weeks 1-3: Base building, Zone 2 volume, 2-3 runs per week
+- Weeks 4-5: Add threshold intervals (20 min at Zone 3-4)
+- Weeks 6-7: Race-pace intervals (400m-1000m repeats at goal 5K pace)
+- Week 8: Taper — reduce volume 40%, maintain intensity
+
+For general fitness endurance goals (not race-specific):
+- Focus on building consistent weekly volume at Zone 2
+- Add one quality session per week (intervals or tempo)
+- Increase volume no more than 10% per week
+
+STRENGTH TRAINING FOR ENDURANCE PERFORMANCE
+Running economy — the energy cost of running at a given pace — is significantly
+improved by strength training. Key exercises for endurance athletes:
+
+Lower body:
+- Single-leg exercises: Bulgarian Split Squat, Step-Up, Single-Leg RDL
+- Hip hinge: Romanian Deadlift, Hip Thrust
+- Calf strength: Calf Raise, Single-Leg Calf Raise (injury prevention)
+
+Core:
+- Anti-rotation: Pallof Press, Dead Bug
+- Stability: Plank variations, Bird Dog
+- Power transfer: Medicine Ball Rotational Throw
+
+Upper body (running posture):
+- Face Pull, Band Pull-Apart (shoulder health)
+- Row variations (counterbalance arm swing)
+
+Recommended: 2 sessions per week, 45-60 minutes, moderate load (8-15 reps).
+Heavy maximal strength work (1-5 reps) provides less benefit for endurance
+athletes and increases recovery demands.
+
+COMMON ENDURANCE TRAINING MISTAKES
+- Junk miles: logging volume at intensities too hard to be truly aerobic (Zone 3)
+  but n

@@ -1,0 +1,112 @@
+{
+    "name": "generate_plan",
+    "description": "Generate a structured weekly training plan based on the user's goals, schedule, experience, and any injuries collected during intake. Call this only after all intake questions have been answered.",
+    "parameters": {
+      "type": "object",
+      "required": ["goal", "weeks", "days_per_week", "schedule"],
+      "properties": {
+        "goal": {
+          "type": "string",
+          "enum": ["strength", "hypertrophy", "fat_loss", "endurance"],
+          "description": "The user's primary training goal."
+        },
+        "experience_level": {
+          "type": "string",
+          "enum": ["beginner", "intermediate", "advanced"],
+          "description": "The user's self-reported training experience."
+        },
+        "weeks": {
+          "type": "integer",
+          "minimum": 4,
+          "maximum": 16,
+          "description": "Total duration of the program in weeks."
+        },
+        "days_per_week": {
+          "type": "integer",
+          "minimum": 2,
+          "maximum": 6,
+          "description": "Number of training days per week."
+        },
+        "injuries": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "List of injuries or limitations to work around, e.g. ['lower back pain', 'left knee']. Empty array if none."
+        },
+        "schedule": {
+          "type": "array",
+          "description": "One entry per training day. Rest days are omitted — the frontend fills gaps.",
+          "items": {
+            "type": "object",
+            "required": ["day", "session_type", "exercises"],
+            "properties": {
+              "day": {
+                "type": "string",
+                "enum": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
+              },
+              "session_type": {
+                "type": "string",
+                "description": "e.g. 'Upper Body – Push', 'Lower Body – Pull', 'Full Body', 'Cardio + Core'"
+              },
+              "estimated_duration_minutes": {
+                "type": "integer",
+                "description": "Estimated session length in minutes."
+              },
+              "exercises": {
+                "type": "array",
+                "minItems": 3,
+                "maxItems": 8,
+                "items": {
+                  "type": "object",
+                  "required": ["id", "name", "sets", "reps", "rest_seconds"],
+                  "properties": {
+                    "id": {
+                      "type": "string",
+                      "description": "Stable unique ID for this exercise slot, e.g. 'mon_ex_1'. Used by patch operations to target specific exercises without regenerating the full plan."
+                    },
+                    "name": {
+                      "type": "string",
+                      "description": "Exercise name, e.g. 'Barbell Back Squat'"
+                    },
+                    "sets": {
+                      "type": "integer",
+                      "minimum": 1,
+                      "maximum": 8
+                    },
+                    "reps": {
+                      "type": "string",
+                      "description": "Rep target. Use a string to allow ranges and special cases: '5', '8-12', '30 seconds', 'AMRAP'"
+                    },
+                    "rest_seconds": {
+                      "type": "integer",
+                      "description": "Rest between sets in seconds, e.g. 90"
+                    },
+                    "load_guidance": {
+                      "type": "string",
+                      "description": "How to pick the weight, e.g. 'RPE 8', '75% 1RM', 'Bodyweight', 'Light — technique focus'"
+                    },
+                    "notes": {
+                      "type": "string",
+                      "description": "Optional coaching cue or substitution note, e.g. 'Keep chest up out of the hole' or 'Sub: Goblet Squat if no barbell'"
+                    },
+                    "progression_note": {
+                      "type": "string",
+                      "description": "How to progress this exercise week over week, e.g. 'Add 2.5 kg when all sets completed with good form'"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deload_week": {
+          "type": "integer",
+          "description": "Which week number is the deload week, if applicable. Omit if program is under 6 weeks."
+        },
+        "rag_sources": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "List of document chunk IDs from ChromaDB that were retrieved and informed this plan. Used for citation and debugging."
+        }
+      }
+    }
+  }

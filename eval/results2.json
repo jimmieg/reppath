@@ -1,0 +1,102 @@
+[
+  {
+    "id": "tc_01",
+    "description": "Strength plan \u2014 beginner, 3 days, 8 weeks",
+    "structure": 1.0,
+    "goal_alignment": 1.0,
+    "hard_rules": 1.0,
+    "composite": 1.0,
+    "issues": []
+  },
+  {
+    "id": "tc_02",
+    "description": "Hypertrophy plan \u2014 intermediate, 4 days, 12 weeks",
+    "structure": 1.0,
+    "goal_alignment": 1.0,
+    "hard_rules": 1.0,
+    "composite": 1.0,
+    "issues": []
+  },
+  {
+    "id": "tc_03",
+    "description": "Fat loss plan \u2014 beginner, 4 days, 8 weeks",
+    "structure": 1.0,
+    "goal_alignment": 1.0,
+    "hard_rules": 1.0,
+    "composite": 1.0,
+    "issues": []
+  },
+  {
+    "id": "tc_04",
+    "description": "Endurance plan \u2014 beginner, 3 days, 8 weeks",
+    "structure": 1.0,
+    "goal_alignment": 0.0,
+    "hard_rules": 1.0,
+    "composite": 0.67,
+    "issues": [
+      "Squats: 8-12 reps below min 10 for endurance",
+      "Deadlifts: 8-12 reps below min 10 for endurance"
+    ]
+  },
+  {
+    "id": "tc_05",
+    "description": "Strength plan \u2014 intermediate, 5 days, 12 weeks",
+    "structure": 0.75,
+    "goal_alignment": 1.0,
+    "hard_rules": 0.0,
+    "composite": 0.58,
+    "issues": [
+      "Day count: expected 5, got 6",
+      "Back-to-back pattern violation: {'squat'} on Friday and Saturday"
+    ]
+  },
+  {
+    "id": "tc_06",
+    "description": "Hypertrophy plan \u2014 beginner, 3 days, 4 weeks",
+    "structure": 1.0,
+    "goal_alignment": 1.0,
+    "hard_rules": 0.0,
+    "composite": 0.67,
+    "issues": [
+      "Back-to-back pattern violation: {'squat'} on Monday and Wednesday"
+    ]
+  },
+  {
+    "id": "tc_07",
+    "description": "Strength plan \u2014 injury present (lower back)",
+    "structure": 1.0,
+    "goal_alignment": 1.0,
+    "hard_rules": 1.0,
+    "composite": 1.0,
+    "issues": []
+  },
+  {
+    "id": "tc_08",
+    "description": "Fat loss \u2014 intermediate, 5 days, 12 weeks",
+    "structure": 0.75,
+    "goal_alignment": 1.0,
+    "hard_rules": 1.0,
+    "composite": 0.92,
+    "issues": [
+      "Day count: expected 5, got 1"
+    ]
+  },
+  {
+    "id": "tc_09",
+    "description": "Hypertrophy \u2014 advanced, 6 days, 12 weeks",
+    "structure": 1.0,
+    "goal_alignment": 1.0,
+    "hard_rules": 1.0,
+    "composite": 1.0,
+    "issues": []
+  },
+  {
+    "id": "tc_10",
+    "description": "Endurance \u2014 intermediate, 4 days, 12 weeks",
+    "structure": 1.0,
+    "goal_alignment": 1.0,
+    "hard_rules": 1.0,
+    "composite": 1.0,
+    "issues": []
+  }
+]

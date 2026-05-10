@@ -1,0 +1,33 @@
+# Environment
+.env
+
+# Virtual environment
+venv/
+.venv/
+
+# ChromaDB (auto-generated, don't commit)
+backend/chroma_db/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# Node (for frontend)
+node_modules/
+frontend/dist/

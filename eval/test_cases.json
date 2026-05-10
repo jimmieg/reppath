@@ -1,0 +1,203 @@
+[
+    {
+      "id": "tc_01",
+      "description": "Strength plan — beginner, 3 days, 8 weeks",
+      "input": {
+        "goal": "strength",
+        "experience_level": "beginner",
+        "days_per_week": 3,
+        "weeks": 8,
+        "injuries": [],
+        "equipment": "full gym"
+      },
+      "expected": {
+        "goal": "strength",
+        "days_per_week": 3,
+        "weeks": 8,
+        "rep_range_max": 6,
+        "load_guidance_keywords": ["1RM", "RPE", "heavy"],
+        "no_back_to_back_patterns": true,
+        "required_fields": ["goal", "weeks", "days_per_week", "schedule", "experience_level"]
+      }
+    },
+    {
+      "id": "tc_02",
+      "description": "Hypertrophy plan — intermediate, 4 days, 12 weeks",
+      "input": {
+        "goal": "hypertrophy",
+        "experience_level": "intermediate",
+        "days_per_week": 4,
+        "weeks": 12,
+        "injuries": [],
+        "equipment": "full gym"
+      },
+      "expected": {
+        "goal": "hypertrophy",
+        "days_per_week": 4,
+        "weeks": 12,
+        "rep_range_min": 6,
+        "load_guidance_keywords": ["RPE", "1RM", "moderate"],
+        "no_back_to_back_patterns": true,
+        "required_fields": ["goal", "weeks", "days_per_week", "schedule", "experience_level"]
+      }
+    },
+    {
+      "id": "tc_03",
+      "description": "Fat loss plan — beginner, 4 days, 8 weeks",
+      "input": {
+        "goal": "fat_loss",
+        "experience_level": "beginner",
+        "days_per_week": 4,
+        "weeks": 8,
+        "injuries": [],
+        "equipment": "full gym"
+      },
+      "expected": {
+        "goal": "fat_loss",
+        "days_per_week": 4,
+        "weeks": 8,
+        "rep_range_min": 8,
+        "no_back_to_back_patterns": true,
+        "required_fields": ["goal", "weeks", "days_per_week", "schedule", "experience_level"]
+      }
+    },
+    {
+      "id": "tc_04",
+      "description": "Endurance plan — beginner, 3 days, 8 weeks",
+      "input": {
+        "goal": "endurance",
+        "experience_level": "beginner",
+        "days_per_week": 3,
+        "weeks": 8,
+        "injuries": [],
+        "equipment": "full gym"
+      },
+      "expected": {
+        "goal": "endurance",
+        "days_per_week": 3,
+        "weeks": 8,
+        "no_back_to_back_patterns": true,
+        "required_fields": ["goal", "weeks", "days_per_week", "schedule", "experience_level"]
+      }
+    },
+    {
+      "id": "tc_05",
+      "description": "Strength plan — intermediate, 5 days, 12 weeks",
+      "input": {
+        "goal": "strength",
+        "experience_level": "intermediate",
+        "days_per_week": 5,
+        "weeks": 12,
+        "injuries": [],
+        "equipment": "full gym"
+      },
+      "expected": {
+        "goal": "strength",
+        "days_per_week": 5,
+        "weeks": 12,
+        "rep_range_max": 6,
+        "load_guidance_keywords": ["1RM", "RPE", "heavy"],
+        "no_back_to_back_patterns": true,
+        "required_fields": ["goal", "weeks", "days_per_week", "schedule", "experience_level"]
+      }
+    },
+    {
+      "id": "tc_06",
+      "description": "Hypertrophy plan — beginner, 3 days, 4 weeks",
+      "input": {
+        "goal": "hypertrophy",
+        "experience_level": "beginner",
+        "days_per_week": 3,
+        "weeks": 4,
+        "injuries": [],
+        "equipment": "dumbbells only"
+      },
+      "expected": {
+        "goal": "hypertrophy",
+        "days_per_week": 3,
+        "weeks": 4,
+        "rep_range_min": 6,
+        "no_back_to_back_patterns": true,
+        "required_fields": ["goal", "weeks", "days_per_week", "schedule", "experience_level"]
+      }
+    },
+    {
+      "id": "tc_07",
+      "description": "Strength plan — injury present (lower back)",
+      "input": {
+        "goal": "strength",
+        "experience_level": "intermediate",
+        "days_per_week": 4,
+        "weeks": 8,
+        "injuries": ["lower back pain"],
+        "equipment": "full gym"
+      },
+      "expected": {
+        "goal": "strength",
+        "days_per_week": 4,
+        "weeks": 8,
+        "injuries_recorded": ["lower back pain"],
+        "no_back_to_back_patterns": true,
+        "required_fields": ["goal", "weeks", "days_per_week", "schedule", "experience_level"]
+      }
+    },
+    {
+      "id": "tc_08",
+      "description": "Fat loss — intermediate, 5 days, 12 weeks",
+      "input": {
+        "goal": "fat_loss",
+        "experience_level": "intermediate",
+        "days_per_week": 5,
+        "weeks": 12,
+        "injuries": [],
+        "equipment": "full gym"
+      },
+      "expected": {
+        "goal": "fat_loss",
+        "days_per_week": 5,
+        "weeks": 12,
+        "rep_range_min": 8,
+        "no_back_to_back_patterns": true,
+        "required_fields": ["goal", "weeks", "days_per_week", "schedule", "experience_level"]
+      }
+    },
+    {
+      "id": "tc_09",
+      "description": "Hypertrophy — advanced, 6 days, 12 weeks",
+      "input": {
+        "goal": "hypertrophy",
+        "experience_level": "advanced",
+        "days_per_week": 6,
+        "weeks": 12,
+        "injuries": [],
+        "equipment": "full gym"
+      },
+      "expected": {
+        "goal": "hypertrophy",
+        "days_per_week": 6,
+        "weeks": 12,
+        "rep_range_min": 6,
+        "no_back_to_back_patterns": true,
+        "required_fields": ["goal", "weeks", "days_per_week", "schedule", "experience_level"]
+      }
+    },
+    {
+      "id": "tc_10",
+      "description": "Endurance — intermediate, 4 days, 12 weeks",
+      "input": {
+        "goal": "endurance",
+        "experience_level": "intermediate",
+        "days_per_week": 4,
+        "weeks": 12,
+        "injuries": [],
+        "equipment": "full gym"
+      },
+      "expected": {
+        "goal": "endurance",
+        "days_per_week": 4,
+        "weeks": 12,
+        "no_back_to_back_patterns": true,
+        "required_fields": ["goal", "weeks", "days_per_week", "schedule", "experience_level"]
+      }
+    }
+  ]

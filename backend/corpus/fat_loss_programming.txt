@@ -1,0 +1,133 @@
+SOURCE: American College of Sports Medicine / Exercise is Medicine.
+"Exercising to Lose Weight." EIM Rx Series.
+URL: https://exerciseismedicine.org/assets/page_documents/EIM%20Rx%20series_Exercising%20to%20Lose%20Weight_2.pdf
+CURATED FOR: RepPath — goal: fat_loss
+---
+
+OVERVIEW
+Both aerobic and resistance training are effective for fat loss. The ACSM recommends
+combining both types. Aerobic exercise burns calories during the session; resistance
+training preserves and builds muscle mass, which elevates resting metabolism
+long-term. Diet changes alongside exercise produce the greatest results.
+
+AEROBIC EXERCISE GUIDELINES (ACSM)
+Target: at least 150 minutes per week of moderate-intensity activity for general
+health. For long-term weight control, aim for 300+ minutes per week.
+
+FITT Principle for fat loss:
+- Frequency: 3–5 days per week, working up to most days of the week
+- Intensity: moderate — able to hold a conversation but breathing is elevated
+  (the "talk test"). Vigorous intensity makes conversation difficult.
+- Time: 30–60 minutes per session. Can be broken into 10-minute bouts.
+- Type: rhythmic exercises using large muscle groups — brisk walking, cycling,
+  swimming, rowing, elliptical
+
+Realistic goal: lose no more than 1–2 pounds per week. Aim to drop 5–10% of
+initial body weight over 3–6 months.
+
+RESISTANCE TRAINING FOR FAT LOSS
+When losing weight, muscle mass is lost alongside fat without resistance training.
+Moderate-intensity resistance work preserves and builds lean mass during a caloric
+deficit, improving body composition beyond what the scale shows.
+
+FITT Principle for resistance training during fat loss:
+- Frequency: minimum 2 days per week, with a rest day between sessions
+- Intensity: moderate — 10–15 reps per set at a weight that is challenging
+  but completable. High intensity = 8–10 reps max.
+- Type: all major muscle groups — chest, back, shoulders, arms, core, legs
+- Equipment: free weights, machines, resistance bands, or bodyweight all work
+
+COMBINING AEROBIC AND RESISTANCE WORK
+For fat loss programs, structure sessions to include both modalities:
+- 3-day example: full body resistance + cardio finisher each session
+- 4-day example: 2 resistance days + 2 dedicated cardio days
+- 5-day example: 3 resistance days + 2 cardio days (or cardio added as finishers)
+
+PROGRESSION FOR FAT LOSS
+Apply progressive overload to both aerobic and resistance components:
+- Aerobic: increase duration or frequency before increasing intensity
+- Resistance: increase reps within range before increasing load
+- Avoid high-intensity training early — beginners have higher injury risk and
+  fatigue out faster, reducing total caloric burn
+
+CAUTIONS
+- Start with short sessions (10–15 min) if previously inactive; add 5 minutes
+  every 2–4 weeks
+- High-impact exercise may stress joints in overweight individuals — swimming
+  and cycling are lower-impact alternatives
+- Stay well hydrated — extra body mass makes overheating easier
+- Do not hold breath during resistance exercises — causes dangerous blood pressure spikes
+
+CALORIC CONTEXT
+Exercise alone is insufficient for significant fat loss. Combine with a caloric
+deficit of 500–1,000 calories per day from dietary changes. The most effective
+fat loss programs run at least 6 months and transition into a maintenance phase.
+
+HIIT VS STEADY STATE CARDIO FOR FAT LOSS
+Both high-intensity interval training (HIIT) and steady-state cardio burn calories
+and contribute to fat loss. Key differences:
+
+Steady-state cardio (Zone 2, 30-60 min):
+- Lower injury risk, suitable for all fitness levels
+- Burns more fat as a fuel percentage during the session
+- Easier to recover from, can be done more frequently
+- Better for beginners and those with joint issues
+
+HIIT (intervals, 20-30 min):
+- Burns more total calories in less time
+- Elevated post-exercise oxygen consumption (EPOC) increases calorie burn for hours
+- Higher injury risk, requires adequate recovery (48 hours between sessions)
+- More mentally demanding, harder to sustain long-term
+
+For fat loss, both work. Steady-state is more sustainable for most people.
+HIIT is time-efficient but should be limited to 2-3 sessions per week maximum.
+
+BODY RECOMPOSITION
+Recomposition — losing fat while gaining muscle simultaneously — is possible for:
+- Beginners (high neurological adaptability)
+- People returning after a layoff
+- Overweight individuals with significant fat stores
+
+Recomposition requires:
+- Maintenance calories or slight deficit (200-300 below maintenance)
+- High protein intake (2.0-2.4g per kg bodyweight)
+- Progressive resistance training 3-4x per week
+- Progress is slower than dedicated bulk or cut phases
+
+RESISTANCE TRAINING DURING FAT LOSS
+Muscle tissue is metabolically expensive — the body will sacrifice it during a
+caloric deficit if resistance training stimulus is absent. Key principles:
+
+- Maintain training intensity (load) even as volume may decrease
+- Do not drop below 2 resistance sessions per week
+- Prioritize compound movements over isolation work when time is limited
+- Protein intake becomes even more critical during a deficit
+
+CALORIC DEFICIT GUIDELINES
+- Aggressive deficit (1000 cal/day): 1-2 lbs/week loss, high muscle loss risk
+- Moderate deficit (500 cal/day): 0.5-1 lb/week loss, recommended for most
+- Conservative deficit (250 cal/day): 0.25-0.5 lb/week, best muscle retention
+
+For athletes and active individuals, a moderate deficit (500 cal/day) is optimal.
+Avoid aggressive deficits during high-volume training phases.
+
+CARDIO PROGRAMMING FOR FAT LOSS
+Week 1-2: 2x per week, 20-30 min steady state
+Week 3-4: 3x per week, 30 min steady state
+Week 5-6: 3x per week, 30-40 min, add one HIIT session
+Week 7+: 4x per week, mix of steady state and HIIT
+
+Always separate cardio from resistance training when possible. If combined,
+do resistance training first to preserve strength performance.
+
+NON-EXERCISE ACTIVITY THERMOGENESIS (NEAT)
+NEAT — all movement outside formal exercise — accounts for 15-30% of total
+daily energy expenditure. Increasing NEAT is often more sustainable than adding
+formal cardio sessions:
+- Take stairs instead of elevator
+- Walk during phone calls
+- Stand at desk for portions of the day
+- Park farther away
+
+For fat loss, increasing daily steps to 8,000-10,000 is highly effective and
+carries no recovery cost compared to adding more training sessions.
