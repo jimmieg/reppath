@@ -76,10 +76,8 @@ def _build_system(messages: list[dict]) -> str:
     """
     retrieval_query = _extract_goal(messages)
     if not retrieval_query:
-        print("[RAG] No goal detected yet — skipping retrieval")
         return SYSTEM_PROMPT
 
-    print(f"[RAG] Goal detected — retrieving for: '{retrieval_query}'")
     context, _ = retrieve(retrieval_query)
     return f"[RETRIEVED CONTEXT]\n{context}\n\n{'='*40}\n\n{SYSTEM_PROMPT}"
 
@@ -129,7 +127,6 @@ def chat(messages: list[dict], plan: dict | None = None) -> dict:
         # This is the most precise query — uses the exact goal enum value
         goal = args.get("goal", "")
         retrieval_query = GOAL_KEYWORDS.get(goal, f"{goal} training programming")
-        print(f"[RAG] Plan generation — final retrieval for: '{retrieval_query}'")
         context, source_ids = retrieve(retrieval_query)
         args["rag_sources"] = source_ids
 

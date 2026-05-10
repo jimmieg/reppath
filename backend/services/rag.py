@@ -84,13 +84,6 @@ def retrieve(query: str, n_results: int = 4) -> tuple[str, list[str]]:
     docs = results["documents"][0]
     ids = results["ids"][0]
 
-    # ← add this block
-    print(f"\n[RAG] Query: '{query}'")
-    print(f"[RAG] Retrieved chunks: {ids}")
-    for i, (chunk_id, doc) in enumerate(zip(ids, docs)):
-        print(f"[RAG] Chunk {i+1} ({chunk_id}): {doc[:100]}...")
-    print()
-
     context = "\n\n---\n\n".join(
         f"[SOURCE: {chunk_id}]\n{doc}" for chunk_id, doc in zip(ids, docs)
     )

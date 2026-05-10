@@ -25,7 +25,7 @@ Open .env and add your OpenAI API key:
 OPENAI_API_KEY=sk-your-key-here
 
 **3. Create and activate a Python virtual environment**
-python -m venv venv
+python3 -m venv venv
 source venv/bin/activate
 
 **4. Install Python dependencies**
