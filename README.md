@@ -1,10 +1,6 @@
 # RepPath
 
-RepPath is an AI-powered training plan generator. It conducts a multi-turn intake
-conversation to learn your goal, schedule, experience level, equipment access, and
-any injuries, then generates a personalized weekly training plan rendered as a
-visual calendar. After generation, you can ask for adjustments in plain English
-and the calendar updates immediately.
+RepPath is an AI-powered training plan generator. It conducts a multi-turn intake conversation to learn your goal, schedule, experience level, equipment access, and any injuries, then generates a personalized weekly training plan rendered as a visual calendar. After generation, you can ask for adjustments in plain English and the calendar updates immediately.
 
 ## Prerequisites
 
@@ -15,29 +11,36 @@ and the calendar updates immediately.
 ## Setup
 
 **1. Clone the repo**
-git clone <your-repo-url>
-cd repPath
+
+    git clone https://github.com/jimmieg/reppath.git
+    cd reppath
 
 **2. Create your environment file**
-cp .env.example .env
+
+    cp .env.example .env
 
 Open .env and add your OpenAI API key:
-OPENAI_API_KEY=sk-your-key-here
+
+    OPENAI_API_KEY=sk-your-key-here
 
 **3. Create and activate a Python virtual environment**
-python3 -m venv venv
-source venv/bin/activate
+
+    python3 -m venv venv
+    source venv/bin/activate
 
 **4. Install Python dependencies**
-pip install -r requirements.txt
+
+    pip install -r requirements.txt
 
 **5. Install frontend dependencies**
-cd frontend && npm install && cd ..
+
+    cd frontend && npm install && cd ..
 
 ## Running the App
 
 Start both the backend and frontend with a single command:
-./start.sh
+
+    ./start.sh
 
 - Backend runs at: http://localhost:8000
 - Frontend runs at: http://localhost:5173
@@ -47,34 +50,14 @@ Open http://localhost:5173 in your browser.
 ## Running the Eval
 
 Make sure the backend is running, then in a separate terminal:
-source venv/bin/activate
-python eval/eval.py
+
+    source venv/bin/activate
+    python eval/eval.py
 
 Results are saved to eval/results.json.
 
 ## Known Limitations
 
-- When requesting an exercise swap, specify the exact day. If the exercise is not
-  found on that day, RepPath will find the nearest match elsewhere in the plan.
-- Plan generation occasionally produces one extra training day on 5+ day requests.
-  If this happens, ask RepPath to remove the extra day in chat.
-- Corpus retrieval occasionally surfaces off-topic chunks in backend logs. This
-  does not affect plan quality.
-
-## Project Structure
-
-reppath/
-├── backend/
-│   ├── main.py              # FastAPI app entry point
-│   ├── routers/chat.py      # /api/chat endpoint
-│   ├── services/
-│   │   ├── llm.py           # OpenAI integration, RAG injection
-│   │   ├── rag.py           # ChromaDB ingestion and retrieval
-│   │   └── patch.py         # Surgical exercise patch logic
-│   ├── tools/generate_plan.json  # Function calling schema
-│   ├── prompts/system.txt   # System prompt
-│   └── corpus/              # Methodology docs for RAG
-├── frontend/                # React + Vite app
-├── eval/                    # Eval script and test cases
-├── start.sh                 # Single command startup
-└── requirements.txt
+- When requesting an exercise swap, specify the exact day. If the exercise is not found on that day, RepPath will find the nearest match elsewhere in the plan.
+- Plan generation occasionally produces one extra training day on 5+ day requests. If this happens, ask RepPath to remove the extra day in chat.
+- Corpus retrieval occasionally surfaces off-topic chunks in backend logs. This does not affect plan quality.
